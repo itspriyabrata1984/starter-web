@@ -16,3 +16,5 @@ Please read the deployment notes for any deployment
 Updating some standard instructions
 
 ## New section to compare between the staged area and the local git repo
+
+### Copyright information has been included in the simple.html file
