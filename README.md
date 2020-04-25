@@ -14,3 +14,5 @@ Please read the deployment notes for any deployment
 
 ## How to contribute
 Updating some standard instructions
+
+## New section to compare between the staged area and the local git repo
