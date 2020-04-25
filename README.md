@@ -13,3 +13,4 @@ Sample website with plenty of files for demo
 Please read the deployment notes for any deployment
 
 ## How to contribute
+Updating some standard instructions
