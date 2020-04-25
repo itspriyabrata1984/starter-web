@@ -1,6 +1,0 @@
-This ia a new file in local repo
-New line added to the local file.
-
-New Line again added to check:
-1)Changes has been pushed to staging area using git add command
-2) But git commit command not yet executed
